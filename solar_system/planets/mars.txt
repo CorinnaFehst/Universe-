@@ -1,3 +1,4 @@
 Mars is Green.
 Mars is cool.
-Mars is blue
+Mars is red
+
